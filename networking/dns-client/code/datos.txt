@@ -1,0 +1,6 @@
+masai.us.es 194.123.13.6 A 
+encina.us.es 194.123.13.4 A 
+masai.us.es mk8.telematica.us.es C 
+us.es dns.us.es N 
+telematica.us.es mail.us.es M
+
